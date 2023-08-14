@@ -25,7 +25,8 @@ type in "code ." into git once the repo is saved on your computer
 ## Usage
 Provide instructions and examples for use. Include screenshots as needed.
 - Github: https://github.com/AmberDiehl1/Weekly-Weather-Checks
-- Website: 
+- Website: https://amberdiehl1.github.io/Weekly-Weather-Checks/
+
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
